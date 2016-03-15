@@ -8,13 +8,13 @@ This codebook describes the resulting two data sets that run_analysis.R produce
 
 Contains 67 variables:
 
-1 - "Activity "- noted as being one of the following 6 values 
-		(1) WALKING
-		(2) WALKING_UPSTAIRS
-		(3) WALKING_DOWNSTAIRS
-		(4) SITTING
-		(5) STANDING
-		(6) LAYING
+1 - "Activity" - noted as being one of the following 6 values 
+	(1) WALKING
+	(2) WALKING_UPSTAIRS
+	(3) WALKING_DOWNSTAIRS
+	(4) SITTING
+	(5) STANDING
+	(6) LAYING
 
 2-67 - Data related to mean and standard deviations of the trial and test data:
 	
