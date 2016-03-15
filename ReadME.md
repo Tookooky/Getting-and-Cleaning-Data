@@ -17,4 +17,4 @@ The second combines the subject_test and subject_train data, and combines the su
 Describes the variables and steps used to return the datasets in run_analysis.R
 
 ##UCI_tidy.csv  
-A table with the second dataset (with tidy dataset)
+A table with the second dataset ("tidy dataset")
