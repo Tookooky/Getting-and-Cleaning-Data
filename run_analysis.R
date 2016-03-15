@@ -75,4 +75,6 @@ colnames(merged$subject) <- c("subject")
 combined <- merged_xysubjects(col_x, col_y, merged$subject)
 head(combined, 1)
 
+tidy < create_tidy_dataset(combined)
 write.csv(tidy, "UCI_tidy.csv", row.names=FALSE)
+write.table(tidy, row.name=FALSE, "tidy.txt"
