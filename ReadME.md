@@ -7,12 +7,12 @@ Creates datasets from the following source: https://d396qusza40orc.cloudfront.ne
 The script creates two datasets - 
 The first merges mean and standard deviation data from x_train and x_test files, including detailed descriptions for the types of activities performed.
 
-The second combines the subject_test and subject_train data, and cobines the subject column with the dataset from the first dataset.  It then returns the average value of each mean/std deviation value set.
+The second combines the subject_test and subject_train data, and combines the subject column with the dataset from the first dataset.  It then returns the average value of each mean/std deviation value set.
 
-Codebook.nu
+Codebook.md
 Describes the variables and steps used to return the datasets in run_analysis.R
 
-Readme.txt
+ReadMe.md
 Gives a summary of the files in the repo
 
 UCI_tidy.csv  
