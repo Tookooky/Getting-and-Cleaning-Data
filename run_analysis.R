@@ -77,4 +77,4 @@ head(combined, 1)
 
 tidy < create_tidy_dataset(combined)
 write.csv(tidy, "UCI_tidy.csv", row.names=FALSE)
-write.table(tidy, row.name=FALSE, "tidy.txt"
+write.table(tidy, row.name=FALSE, "tidy.txt")
